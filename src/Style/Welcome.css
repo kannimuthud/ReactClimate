@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    margin: 5% 33%;
+    height: 40px;
+
+}
+.headerh1{
+    text-align: center;
+    padding-top: 20px;
+}
+.button{
+    position: absolute !important;
+    z-index: 1 !important;
+    right: 8px !important;
+    top: 18px !important;
+}
+.chartposition{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: white;
+    padding-top: 30px;
+}
+.dataposition{
+    display: flex;
+
+    
+}
+.footer{
+    text-align: center;
+    padding-bottom:15px !important;
+}
+.acstatus{
+    background-color: white;
+    position: relative;
+    width: 180px;
+    top: 14px;
+    margin-left: 20px;
+    height: 127px;
+    text-align: center;
+    padding-top: 32px;
+}

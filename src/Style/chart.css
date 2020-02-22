@@ -1,0 +1,22 @@
+.data{
+    border: 1px solid black;
+    
+}
+.headerh1{
+    text-align: center;
+}
+.line{ 
+    margin-right: 30px !important;
+    margin-bottom: 30px !important;
+}
+.date{
+    position: relative;
+    left: 30px;
+    text-align: end;
+
+}
+.showdate{
+    text-align: center;
+    position: relative;
+    bottom: 30px;
+}
